@@ -1,0 +1,2 @@
+phone=380999999999, email=adf@uk.as, password=As123456
+phone=380672361672, email=muz@ukr.net, password=As123456

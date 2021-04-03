@@ -1,0 +1,7 @@
+phone error:1
+phone error:2
+email error:asdfasf
+email error:adf
+email error:123123@asdfse@
+password error:adfasdfgasdf
+password error:asdfasdfasdf
