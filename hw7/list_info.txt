@@ -1,0 +1,8 @@
+coma separated list: 81,62,85,69,47,6561,15,82,92,33,22,97
+length: 12
+minimal: 15
+sum 3: 6759
+coma separated list: 25,5
+length: 2
+minimal: 5
+sum 3: 0
